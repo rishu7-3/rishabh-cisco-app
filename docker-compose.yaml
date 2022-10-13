@@ -7,4 +7,4 @@ services:
       dockerfile: rishabhday4app.dockerfile
     container_name: rishabhc1 # after image build the container i want to create
     ports: # port forwarding
-    - 1836:80
+    - 1846:80
